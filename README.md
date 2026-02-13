@@ -1,12 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently building structured software projects with Java and Python, focusing on clean architecture, problem solving, and long-term scalability.
-🎯 My long-term goal is to work in high-performance environments — whether in tech (Cloud / Software Engineering) or elite tactical units — so discipline and consistency define how I work.
-🤝 I’m looking to collaborate on real-world projects that require logic, structure, and clean implementation — not just tutorial-level code.
-🤔 I’m currently improving my understanding of algorithms, databases (MySQL), networking basics, and cloud fundamentals.
-🌱 I’m studying at an HTL in Austria, balancing technical education, competitive sports, and personal skill development.
-💬 Ask me about Java fundamentals, project organization, learning strategy, or how to combine school with serious self-improvement.
-⚡ Fun fact: I treat coding like training — progressive overload, consistency, and no excuses.
+🔭 I'm currently building structured software projects with Java and Python, focusing on clean architecture, problem solving, and long-term scalability.<br><br>🎯 My long-term goal is to work in high-performance environments — whether in tech (Cloud / Software Engineering) or elite tactical units — so discipline and consistency define how I work.<br><br>🤝 I'm looking to collaborate on real-world projects that require logic, structure, and clean implementation — not just tutorial-level code.<br><br>🤔 I'm currently improving my understanding of algorithms, databases (MySQL), networking basics, and cloud fundamentals.<br><br>🌱 I'm studying at an HTL in Austria, balancing technical education, competitive sports, and personal skill development.<br><br>💬 Ask me about Java fundamentals, project organization, learning strategy, or how to combine school with serious self-improvement.<br><br>⚡ Fun fact: I treat coding like training — progressive overload, consistency, and no excuses.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Nino2009) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nino.marinkovic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nino Marinkovic) 
