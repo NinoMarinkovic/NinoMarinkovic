@@ -1,4 +1,4 @@
-KopierenHey, I'm Nino 👋
+Hey, I'm Nino 👋
 HTL student in Austria — Industrial Engineering & Business Informatics.<br>
 I write Java and Python daily, care about clean architecture, and build things that actually work — not just tutorial projects.
 
