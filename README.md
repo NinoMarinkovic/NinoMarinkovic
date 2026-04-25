@@ -21,12 +21,6 @@ Languages:   Java · Python · JavaScript · HTML · CSS
 Databases:   MySQL (learning)
 Tools:       Git · GitHub · IntelliJ IDEA · VS Code
 
-Currently working on
-
-Algorithms & data structures — sorting, searching, complexity analysis in Java
-MySQL — schema design, queries, connecting databases to Java backends
-Networking & cloud fundamentals — understanding how production systems actually run
-
 
 About me
 I'm 16, studying at an HTL in Austria — a technically focused school that combines engineering, business, and programming. I apply the same mindset I use in competitive sports to coding: progressive overload, consistency, no excuses.
