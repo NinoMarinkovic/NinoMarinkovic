@@ -30,13 +30,16 @@ Java · OOP · Control flow
 
 
 Tech stack
+
 Languages:   Java · Python · JavaScript · HTML · CSS
+
 Databases:   MySQL (learning)
+
 Tools:       Git · GitHub · IntelliJ IDEA · VS Code
 
 
 Currently working on
-Networking & cloud fundamentals — understanding how production systems actually run
+Cloud fundamentals — understanding how production systems actually run
 
 
 About me
