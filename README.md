@@ -1,17 +1,72 @@
 # 💫 About Me:
-Hey, I'm Nino 👋<br>HTL student in Austria — Industrial Engineering & Business Informatics.<br><br>I care about clean architecture, and build things that actually work — not just tutorial projects.<br><br>🚀 Projects worth looking at<br>🧠 tictactoe-minimax<br>Tic-tac-toe with an unbeatable AI.<br><br>Implemented the minimax algorithm from scratch — the AI recursively evaluates every possible game state and always plays a perfect game.<br><br>Java · Algorithms · Recursion · Game theory<br>💰 finance-tracker<br>Personal finance tracker built with Python and Flask.<br><br>Tracks income, expenses, and balance — clean backend logic, real use case.<br><br>Python · Flask · Web · Backend<br>🎲 GamblersLuck<br>Probability simulator that models casino-style games and tracks statistical outcomes across thousands of runs.<br><br>Built to explore how probability actually plays out at scale.<br><br>Java · OOP · Probability · Simulation<br>🔍 RPG-Creature-Search-App<br>Searchable, filterable creature database.<br><br>Vanilla JS, real DOM manipulation — no frameworks, no shortcuts.<br><br>JavaScript · HTML/CSS · Filtering logic<br><br>🛠️ Currently working on<br><br><br>MySQL — schema design, queries, connecting databases <br> Cloud fundamentals — understanding how production systems actually run<br><br><br>👤 About me<br>I'm 16, studying at an HTL in Austria — a technically focused school that combines engineering, business, and programming.<br><br>I apply the same mindset I use in competitive sports to coding: progressive overload, consistency, no excuses.<br><br>I'm looking to collaborate on real-world projects that require logic, structure, and clean implementation.<br><br>Austria 🇦🇹 · HTL Industrial Engineering & Business Informatics · Building since day one
+Hey, I'm Nino 👋<br>
+HTL student in Austria — Industrial Engineering & Business Informatics.<br><br>
+I care about clean architecture and build things that actually work — not just tutorial projects.<br><br>
+I use AI tools (Claude, GitHub Copilot) as part of my workflow — for debugging, code review, and exploring concepts faster. The logic, decisions, and implementation are mine.
 
+---
+
+## 🚀 Projects
+
+### 🧠 tictactoe-minimax
+Tic-tac-toe with an unbeatable AI — minimax algorithm implemented from scratch.<br>
+The AI recursively evaluates every possible game state and always plays a perfect game.<br>
+`Java` · `Algorithms` · `Recursion` · `Game theory`<br>
+> AI tools used: Claude for algorithm clarification and edge case review.
+
+---
+
+### 💰 finance-tracker
+Personal finance tracker built with Python and Flask.<br>
+Tracks income, expenses, and balance — clean backend logic, real use case.<br>
+`Python` · `Flask` · `Web` · `Backend`<br>
+> AI tools used: GitHub Copilot for boilerplate, Claude for backend structure decisions.
+
+---
+
+### 🎲 GamblersLuck
+Probability simulator that models casino-style games and tracks statistical outcomes across thousands of runs.<br>
+Built to explore how probability actually plays out at scale.<br>
+`Java` · `OOP` · `Probability` · `Simulation`<br>
+> AI tools used: Claude for debugging and probability logic review.
+
+---
+
+### 🔍 RPG-Creature-Search-App
+Searchable, filterable creature database — vanilla JS, real DOM manipulation, no frameworks.<br>
+`JavaScript` · `HTML/CSS` · `Filtering logic`<br>
+> AI tools used: GitHub Copilot for autocomplete, manual implementation throughout.
+
+---
+
+## 🛠️ Currently learning
+- MySQL — schema design, queries, connecting databases
+- Cloud fundamentals — understanding how production systems actually run
+
+---
+
+## 👤 About me
+I'm 16, studying at an HTL in Austria — a technically focused school combining engineering, business, and programming.<br><br>
+I apply the same mindset I use in competitive sports to coding: consistency, progressive overload, no excuses.<br><br>
+Looking to collaborate on projects that require logic, structure, and clean implementation.<br><br>
+Austria 🇦🇹 · HTL Industrial Engineering & Business Informatics · Building since day one
+
+---
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Nino2009) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n.marinkovic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nino Marinkovic) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Nino2009) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n.marinkovic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nino Marinkovic)
 
-# 💻 Tech Stack:
+---
+
+## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
+
+---
+
+## 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=NinoMarinkovic&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NinoMarinkovic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=NinoMarinkovic&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://komarev.com/ghpvc/?username=NinoMarinkovic&icon=0&color=0)](https://visitcount.itsvg.in)
