@@ -15,7 +15,7 @@
 
 HTL student in Austria — Industrial Engineering & Business Informatics.
 I care about clean architecture and build things that actually work — not tutorial projects.
-I use AI tools (Claude, GitHub Copilot) as part of my workflow for debugging, code review, and exploring concepts faster. The logic, decisions, and implementation are mine.
+I use AI tools (Claude, GitHub Copilot) as part of my workflow — for debugging, code review, writing parts of the code, and exploring concepts faster. The logic and decisions are mine.
 
 ```bash
 $ cat .profile
@@ -69,7 +69,7 @@ Tic-tac-toe with an AI that cannot lose. Minimax implemented from scratch — th
 | **Impact** | Complete minimax tree — optimal play guaranteed |
 | **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/tictactoe-minimax) |
 
-Built the entire minimax decision tree, recursive state evaluation, and win condition logic from scratch.
+Logic, decisions, and architecture mine — AI tools used for algorithm clarification and edge case review.
 
 </details>
 
@@ -85,7 +85,7 @@ Web app to track and predict World Cup 2026 results — group stage, knockout ro
 | **Impact** | Live standings, auto-bracket progression, admin result submission |
 | **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/World-Cup-2026-Prediciton-App) |
 
-Built the backend logic, knockout auto-progression, admin panel, and group stage + bracket rendering.
+Built the backend logic, knockout auto-progression, admin panel, and bracket rendering — AI tools used for debugging and structure decisions.
 
 </details>
 
@@ -183,17 +183,7 @@ open_to:
 
 </div>
 
----
 
-## `> trophy --display`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NinoMarinkovic&theme=algolia&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## `> git log --graph --activity`
 
