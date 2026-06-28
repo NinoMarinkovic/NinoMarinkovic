@@ -1,14 +1,4 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0D1117&fontColor=00D4FF&text=%3E_%20Nino%20Marinkovic&fontSize=40&desc=HTL+Student+%7C+Java+%26+Python+%7C+Building+real+things&descColor=5EDFFF&animation=fadeIn&height=180" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&color=00D4FF&center=true&vCenter=true&width=820&lines=$ whoami+%E2%86%92+HTL+Student%2C+Industrial+Engineering+%26+Business+Informatics;$ location+%E2%86%92+Austria+%F0%9F%87%A6%F0%9F%87%B9;$ stack+%E2%86%92+Java+%7C+Python+%7C+JavaScript+%7C+Flask+%7C+MySQL;$ cat+open-to.txt+%E2%86%92+Collaborations+%7C+Real+projects%2C+not+tutorials;$ current+%E2%86%92+Learning+MySQL+%26+Cloud+fundamentals" />
-
-</div>
 
 <div align="center">
 
