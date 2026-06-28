@@ -35,7 +35,7 @@ OPEN_TO  =  Collaborations on logic-heavy, structured, real-world projects
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,flask,mysql,bootstrap&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
@@ -49,7 +49,7 @@ OPEN_TO  =  Collaborations on logic-heavy, structured, real-world projects
 | **Algorithms & Logic** | ⬛⬛⬛⬛⬜ | Minimax, recursion, game theory, search & filter logic |
 | **Backend Development** | ⬛⬛⬛⬜⬜ | Python / Flask, REST-style structure, clean architecture |
 | **Frontend (Vanilla)** | ⬛⬛⬛⬜⬜ | DOM manipulation, HTML/CSS, no-framework JS |
-| **Probability & Simulation** | ⬛⬛⬛⬜⬜ | OOP-driven simulations, statistical modeling |
+| **Game Development (Text/Logic)** | ⬛⬛⬛⬜⬜ | OOP-driven game logic, combat systems, floor progression |
 | **Database Design** | ⬛⬛⬜⬜⬜ | MySQL — schema design, queries (actively learning) |
 | **AI-Augmented Workflow** | ⬛⬛⬛⬛⬜ | Claude + Copilot for debugging, review, concept exploration |
 
@@ -106,18 +106,18 @@ Designed the backend architecture, data model, and routing structure independent
 </details>
 
 <details>
-<summary><b>&#9654; GamblersLuck &mdash; Probability simulator</b></summary>
+<summary><b>&#9654; GamblersLuck &mdash; Text-based RPG dungeon crawler</b></summary>
 
-Models casino-style games and tracks statistical outcomes across thousands of simulation runs. Built to explore how probability actually plays out at scale.
+Fight through 7 floors of a deadly casino, collect coins, and survive two boss encounters. Built in Java around OOP principles — text-based, fully playable.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Java &middot; OOP &middot; Probability &middot; Simulation |
-| **Scale** | Thousands of simulation runs per session |
-| **Impact** | Visualizes statistical convergence over large sample sizes |
+| **Stack** | Java &middot; OOP &middot; Game logic |
+| **Scale** | 7 floors, 2 boss fights, full combat & coin system |
+| **Impact** | Complete playable game built on clean class architecture |
 | **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/GamblersLuck) |
 
-Designed the simulation engine, probability models, and statistical output logic.
+Designed the class hierarchy, combat system, floor progression, and boss encounter logic.
 
 </details>
 
