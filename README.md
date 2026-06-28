@@ -74,18 +74,18 @@ Built the entire minimax decision tree, recursive state evaluation, and win cond
 </details>
 
 <details>
-<summary><b>&#9654; World-Cup-2026-Prediction-App &mdash; ML-powered match predictor</b></summary>
+<summary><b>&#9654; World-Cup-2026-Prediction-App &mdash; Full tournament tracker & predictor</b></summary>
 
-Predicts World Cup 2026 match outcomes based on historical data and team statistics. Active project — 91 commits in June 2026 alone.
+Web app to track and predict World Cup 2026 results — group stage, knockout rounds (R32 through Final), and live standings. Admin panel to submit match results, auto-progression for knockout brackets. Active project — 91 commits in June 2026 alone.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python &middot; Data processing &middot; Prediction logic |
-| **Scale** | Full tournament bracket, all group stage matches |
-| **Impact** | Generates outcome probabilities for real World Cup fixtures |
+| **Stack** | Python &middot; Flask &middot; SQLite &middot; HTML/CSS/JS |
+| **Scale** | Full 2026 tournament — 48 group games + full knockout bracket |
+| **Impact** | Live standings, auto-bracket progression, admin result submission |
 | **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/World-Cup-2026-Prediciton-App) |
 
-Designed the data pipeline, prediction model logic, and bracket simulation engine.
+Built the backend logic, knockout auto-progression, admin panel, and group stage + bracket rendering.
 
 </details>
 
