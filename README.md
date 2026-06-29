@@ -35,7 +35,7 @@ OPEN_TO  =  Collaborations on logic-heavy, structured, real-world projects
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,flask,bootstrap&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
