@@ -22,7 +22,7 @@ $ cat .profile
 
 NAME     =  Nino Marinkovic
 AGE      =  16
-SCHOOL   =  HTL Austria — Industrial Engineering & Business Informatics
+SCHOOL   =  HTL Reutte — Industrial Engineering & Business Informatics
 STACK    =  Java  |  Python  |  JavaScript  |  Flask  |  MySQL
 LEARNING =  MySQL schema design  |  Cloud fundamentals
 MINDSET  =  Consistency · Progressive overload · No excuses
