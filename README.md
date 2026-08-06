@@ -51,7 +51,7 @@ OPEN_TO  =  Collaborations on logic-heavy, structured, real-world projects
 | **Frontend (Vanilla)** | ⬛⬛⬛⬜⬜ | DOM manipulation, HTML/CSS, no-framework JS |
 | **Game Development (Text/Logic)** | ⬛⬛⬛⬜⬜ | OOP-driven game logic, combat systems, floor progression |
 | **Database Design** | ⬛⬛⬜⬜⬜ | MySQL — schema design, queries (actively learning) |
-| **AI-Augmented Workflow** | ⬛⬛⬛⬛⬜ | Claude + Copilot for debugging, review, concept exploration |
+| **AI-Augmented Workflow** | ⬛⬛⬜⬜⬜ | Claude + Copilot for debugging, review, concept exploration |
 
 ---
 
