@@ -80,7 +80,7 @@ Web app to track and predict World Cup 2026 results — group stage, knockout ro
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python &middot; Flask &middot; SQLite &middot; HTML/CSS/JS |
+| **Stack** | Python &middot; Flask &middot; MySQL &middot; HTML/CSS/JS |
 | **Scale** | Full 2026 tournament — 48 group games + full knockout bracket |
 | **Impact** | Live standings, auto-bracket progression, admin result submission |
 | **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/World-Cup-2026-Prediciton-App) |
