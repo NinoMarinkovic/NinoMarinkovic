@@ -64,7 +64,7 @@ Tic-tac-toe with an AI that cannot lose. Minimax implemented from scratch — th
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Java &middot; Algorithms &middot; Recursion &middot; Game Theory |
+| **Stack** | JavaScript &middot; Algorithms &middot; Recursion &middot; Game Theory |
 | **Scale** | Fully playable browser game |
 | **Impact** | Complete minimax tree — optimal play guaranteed |
 | **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/tictactoe-minimax) |
