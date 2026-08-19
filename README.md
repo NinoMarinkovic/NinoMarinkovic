@@ -5,7 +5,7 @@
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=ninomarinkovic&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=ninomarinkovic&theme=github-dark" alt="About Nino Marinkovic" /></picture>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,css,html,typescript&perline=8&theme=dark" alt="Selected language and technology logos" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,css,html,Java,Flask&perline=8&theme=dark" alt="Selected language and technology logos" />
 </p>
 📊 GitHub Stats
 <p align="center">
