@@ -1,7 +1,11 @@
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nino%20Marinkovic-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/ninomarinkovic)
+# Nino Marinković
+### Industrial Engineering & Business Informatics Student — HTL Reutte, Austria
+
+Building backend systems and tools with real logic behind them, not tutorial rewrites.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/ninomarinkovic)
 [![Instagram](https://img.shields.io/badge/Instagram-n.marinkovic-00D4FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/n.marinkovic)
 [![Discord](https://img.shields.io/badge/Discord-Nino2009-00D4FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.gg/Nino2009)
 [![Profile Views](https://komarev.com/ghpvc/?username=NinoMarinkovic&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117)](https://github.com/NinoMarinkovic)
@@ -13,19 +17,17 @@
 ## `> whoami`
 
 HTL student in Austria — Industrial Engineering & Business Informatics.
-I care about clean architecture and build things that actually work — not tutorial projects.
-I use AI tools (Claude, GitHub Copilot) as part of my workflow — for debugging, code review, writing parts of the code, and exploring concepts faster. The logic and decisions are mine.
+I care about clean architecture and build things that actually work, with real logic behind them, not copy-pasted tutorial code.
+I use AI tools (Claude, GitHub Copilot) as part of my workflow, for debugging, code review, writing parts of the code, and exploring concepts faster. The logic and decisions are mine.
 
 ```bash
 $ cat .profile
 
 NAME     =  Nino Marinkovic
-AGE      =  16
 SCHOOL   =  HTL Reutte — Industrial Engineering & Business Informatics
-STACK    =  Java  |  Python  |  JavaScript  |  Flask  |  MySQL
+STACK    =  Java  |  Python  |  JavaScript  |  Flask  |  MySQL  |  Docker
 LEARNING =  MySQL schema design  |  Cloud fundamentals
-MINDSET  =  Consistency · Progressive overload · No excuses
-OPEN_TO  =  Collaborations on logic-heavy, structured, real-world projects
+OPEN_TO  =  Werkstudent / Praktikum roles, logic-heavy backend work
 ```
 
 ---
@@ -35,16 +37,47 @@ OPEN_TO  =  Collaborations on logic-heavy, structured, real-world projects
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,flask,bootstrap&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-
 ## `> ls /projects`
 
 <details open>
+<summary><b>&#9654; World-Cup-2026-Prediction-App &mdash; Full tournament tracker & predictor</b></summary>
+
+Web app to track and predict World Cup 2026 results — group stage, knockout rounds (R32 through Final), and live standings. Admin panel to submit match results, auto-progression for knockout brackets. Active project — 91 commits in June 2026 alone.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; Flask &middot; MySQL &middot; Docker &middot; HTML/CSS/JS |
+| **Scale** | Full 2026 tournament — 48 group games + full knockout bracket |
+| **Impact** | Live standings, auto-bracket progression, admin result submission, CI/CD pipeline |
+| **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/World-Cup-2026-Prediciton-App) |
+
+Built the backend logic, knockout auto-progression, admin panel, and bracket rendering — AI tools used for debugging and structure decisions.
+
+</details>
+
+<details>
+<summary><b>&#9654; finance-tracker &mdash; Personal finance backend</b></summary>
+
+Tracks income, expenses, and balance via a clean Flask backend, built around a use case I actually needed myself, not a CRUD walkthrough.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; Flask &middot; Backend architecture |
+| **Scale** | Personal tool with structured data model |
+| **Impact** | Full income/expense tracking with balance calculation |
+| **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/finance-tracker) |
+
+Designed the backend architecture, data model, and routing structure independently.
+
+</details>
+
+<details>
 <summary><b>&#9654; tictactoe-minimax &mdash; Unbeatable AI via Minimax</b></summary>
 
 Tic-tac-toe with an AI that cannot lose. Minimax implemented from scratch — the AI recursively evaluates every possible game state and always plays a perfect game.
@@ -56,39 +89,7 @@ Tic-tac-toe with an AI that cannot lose. Minimax implemented from scratch — th
 | **Impact** | Complete minimax tree — optimal play guaranteed |
 | **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/tictactoe-minimax) |
 
-Logic, decisions, and architecture mine — AI tools used for algorithm clarification and edge case review.
-
-</details>
-
-<details>
-<summary><b>&#9654; World-Cup-2026-Prediction-App &mdash; Full tournament tracker & predictor</b></summary>
-
-Web app to track and predict World Cup 2026 results — group stage, knockout rounds (R32 through Final), and live standings. Admin panel to submit match results, auto-progression for knockout brackets. Active project — 91 commits in June 2026 alone.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | Python &middot; Flask &middot; MySQL &middot; HTML/CSS/JS |
-| **Scale** | Full 2026 tournament — 48 group games + full knockout bracket |
-| **Impact** | Live standings, auto-bracket progression, admin result submission |
-| **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/World-Cup-2026-Prediciton-App) |
-
-Built the backend logic, knockout auto-progression, admin panel, and bracket rendering — AI tools used for debugging and structure decisions.
-
-</details>
-
-<details>
-<summary><b>&#9654; finance-tracker &mdash; Personal finance backend</b></summary>
-
-Tracks income, expenses, and balance via a clean Flask backend. Real use case, real logic — not a CRUD tutorial.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | Python &middot; Flask &middot; Backend architecture |
-| **Scale** | Personal tool with structured data model |
-| **Impact** | Full income/expense tracking with balance calculation |
-| **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/finance-tracker) |
-
-Designed the backend architecture, data model, and routing structure independently.
+Logic, decisions, and architecture are mine — AI tools used for algorithm clarification and edge case review.
 
 </details>
 
@@ -137,12 +138,9 @@ building:
   - World-Cup-2026-Prediction-App  # active — 91 commits in June
   - finance-tracker                # backend improvements
 
-mindset:
-  - Same as competitive sports: consistency, progressive overload, no excuses
-
 open_to:
+  - Werkstudent / internship roles in backend or infrastructure
   - Collaborations on logic-heavy projects
-  - Real implementations — not tutorial rewrites
   - Teams that care about clean architecture
 ```
 
@@ -152,25 +150,9 @@ open_to:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NinoMarinkovic&show_icons=true&hide_border=true&title_color=00D4FF&icon_color=5EDFFF&text_color=C9D1D9&bg_color=0D1117&count_private=true" />
-
-<img height="165" src="https://streak-stats.demolab.com/?user=NinoMarinkovic&hide_border=true&background=0D1117&stroke=00D4FF&ring=5EDFFF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=C9D1D9" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinoMarinkovic&hide_border=true&title_color=00D4FF&text_color=C9D1D9&bg_color=0D1117&layout=compact" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NinoMarinkovic&theme=2077" width="100%" />
 
 </div>
-
-
 
 ## `> git log --graph --activity`
 
