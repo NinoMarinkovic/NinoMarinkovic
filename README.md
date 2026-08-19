@@ -19,5 +19,4 @@
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=ninomarinkovic&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=ninomarinkovic&theme=github-dark" alt="ninomarinkovic social links" /></picture>
 </p>
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
----
-<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
+
