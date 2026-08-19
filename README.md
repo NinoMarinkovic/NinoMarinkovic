@@ -1,4 +1,3 @@
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nino%20Marinkovic-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/ninomarinkovic)
@@ -20,7 +19,6 @@ I use AI tools (Claude, GitHub Copilot) as part of my workflow — for debugging
 $ cat .profile
 
 NAME     =  Nino Marinkovic
-AGE      =  16
 SCHOOL   =  HTL Reutte — Industrial Engineering & Business Informatics
 STACK    =  Java  |  Python  |  JavaScript  |  Flask  |  MySQL
 LEARNING =  MySQL schema design  |  Cloud fundamentals
@@ -38,19 +36,6 @@ OPEN_TO  =  Collaborations on logic-heavy, structured, real-world projects
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
-
----
-
-## `> cat expertise.md`
-
-| Domain | Level | Details |
-| :-- | :-- | :-- |
-| **Algorithms & Logic** | ⬛⬛⬛⬜⬜ | Minimax, recursion, game theory, search & filter logic |
-| **Backend Development** | ⬛⬛⬛⬜⬜ | Python / Flask, REST-style structure, clean architecture |
-| **Frontend (Vanilla)** | ⬛⬛⬜⬜⬜ | DOM manipulation, HTML/CSS, no-framework JS |
-| **Game Development (Text/Logic)** | ⬛⬛⬛⬜⬜ | OOP-driven game logic, combat systems, floor progression |
-| **Database Design** | ⬛⬛⬜⬜⬜ | MySQL — schema design, queries (actively learning) |
-| **AI-Augmented Workflow** | ⬛⬛⬜⬜⬜ | Claude + Copilot for debugging, review, concept exploration |
 
 ---
 
@@ -164,7 +149,7 @@ open_to:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NinoMarinkovic&show_icons=true&hide_border=true&title_color=00D4FF&icon_color=5EDFFF&text_color=C9D1D9&bg_color=0D1117&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NinoMarinkovic&show_icons=true&hide_border=true&title_color=00D4FF&icon_color=5EDFFF&text_color=C9D1D9&bg_color=0D1117&count_private=true&cache_seconds=86400" />
 
 <img height="165" src="https://streak-stats.demolab.com/?user=NinoMarinkovic&hide_border=true&background=0D1117&stroke=00D4FF&ring=5EDFFF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=C9D1D9" />
 
@@ -172,7 +157,7 @@ open_to:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinoMarinkovic&hide_border=true&title_color=00D4FF&text_color=C9D1D9&bg_color=0D1117&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinoMarinkovic&hide_border=true&title_color=00D4FF&text_color=C9D1D9&bg_color=0D1117&layout=compact&cache_seconds=86400" />
 
 </div>
 
@@ -181,8 +166,6 @@ open_to:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NinoMarinkovic&theme=2077" width="100%" />
 
 </div>
-
-
 
 ## `> git log --graph --activity`
 
