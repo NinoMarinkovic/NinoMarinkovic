@@ -131,12 +131,7 @@ Built all filtering logic, DOM updates, and search logic without any libraries o
 
 ```yaml
 learning:
-  - MySQL: schema design, normalized tables, complex queries
-  - Cloud fundamentals: how production systems actually work
-
-building:
-  - World-Cup-2026-Prediction-App  # active — 91 commits in June
-  - finance-tracker                # backend improvements
+  - MySQL: subqueries, normalized tables
 
 open_to:
   - Werkstudent / internship roles in backend or infrastructure
