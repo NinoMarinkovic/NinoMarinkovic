@@ -6,7 +6,7 @@
 Building backend systems and tools with real logic behind them, not tutorial rewrites.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/ninomarinkovic)
-[![Instagram](https://img.shields.io/badge/Instagram-n.marinkovic-00D4FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/n.marinkovic)
+[![Instagram](https://img.shields.io/badge/Instagram-nino.marinkovic-00D4FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/nino.marinkovic)
 [![Discord](https://img.shields.io/badge/Discord-Nino2009-00D4FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.gg/Nino2009)
 [![Profile Views](https://komarev.com/ghpvc/?username=NinoMarinkovic&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117)](https://github.com/NinoMarinkovic)
 
