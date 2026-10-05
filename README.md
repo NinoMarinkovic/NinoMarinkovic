@@ -36,7 +36,7 @@ OPEN_TO  =  Werkstudent / Praktikum roles, logic-heavy backend work
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,Springboot,html,css,mysql,flask,bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,flask,bootstrap&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
