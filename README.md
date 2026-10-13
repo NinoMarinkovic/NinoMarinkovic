@@ -131,7 +131,8 @@ Built all filtering logic, DOM updates, and search logic without any libraries o
 
 ```yaml
 learning:
-  - MySQL: subqueries, normalized tables
+  - MySQL: subqueries
+  - Cloud Computing
 
 open_to:
   - Werkstudent / internship roles in backend or infrastructure
