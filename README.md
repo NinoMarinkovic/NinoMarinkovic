@@ -150,15 +150,7 @@ open_to:
 
 </div>
 
-## `> git log --graph --activity`
 
-<div align="center">
-
-[![Nino's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NinoMarinkovic&bg_color=0D1117&color=00D4FF&line=5EDFFF&point=00D4FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## `> connect --all`
 
