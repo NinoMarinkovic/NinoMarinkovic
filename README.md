@@ -1,12 +1,11 @@
 <div align="center">
 
-# Nino Marinković
+# Nino Marinkovic
 ### Industrial Engineering & Business Informatics Student — HTL Reutte, Austria
 
 Building backend systems and tools with real logic behind them, not tutorial rewrites.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/ninomarinkovic)
-[![Profile Views](https://komarev.com/ghpvc/?username=NinoMarinkovic&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117)](https://github.com/NinoMarinkovic)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/ninomarinkovic)
 
 </div>
 
@@ -15,7 +14,7 @@ Building backend systems and tools with real logic behind them, not tutorial rew
 ## `> whoami`
 
 HTL student in Austria — Industrial Engineering & Business Informatics.
-I care about clean architecture and build things that actually work, with real logic behind them, not copy-pasted tutorial code.
+I care about clean architecture and build things that actually work.
 I use AI tools (Claude, GitHub Copilot) as part of my workflow, for debugging, code review, writing parts of the code, and exploring concepts faster. The logic and decisions are mine.
 
 ```bash
@@ -23,8 +22,8 @@ $ cat .profile
 
 NAME     =  Nino Marinkovic
 SCHOOL   =  HTL Reutte — Industrial Engineering & Business Informatics
-STACK    =  Java  |  Python  |  JavaScript  |  Flask  |  MySQL  |  Docker
-LEARNING =  MySQL schema design  |  Cloud fundamentals
+STACK    =  Java  |  Python  |  JavaScript  |  Flask  |  MySQL  |  Docker  |  GitHub Actions
+LEARNING =  MySQL schema design  |  Cloud deployment (Docker, Render)
 OPEN_TO  =  Werkstudent / Praktikum roles, logic-heavy backend work
 ```
 
@@ -50,25 +49,26 @@ Web app to track and predict World Cup 2026 results — group stage, knockout ro
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python &middot; Flask &middot; MySQL &middot; Docker &middot; HTML/CSS/JS |
+| **Stack** | Python &middot; Flask &middot; MySQL &middot; Docker &middot; Render &middot; GitHub Actions &middot; HTML/CSS/JS |
 | **Scale** | Full 2026 tournament — 48 group games + full knockout bracket |
 | **Impact** | Live standings, auto-bracket progression, admin result submission, CI/CD pipeline |
-| **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/World-Cup-2026-Prediciton-App) |
+| **Live** | [world-cup-2026-prediciton-app.onrender.com](https://world-cup-2026-prediciton-app.onrender.com) *(first load can take ~1 min — free-tier cold start)* |
+| **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/World-Cup-2026-Prediction-App) |
 
-Built the backend logic, knockout auto-progression, admin panel, and bracket rendering — AI tools used for debugging and structure decisions.
+Built the backend logic, knockout auto-progression, admin panel, and bracket rendering.
 
 </details>
 
 <details>
 <summary><b>&#9654; finance-tracker &mdash; Personal finance backend</b></summary>
 
-Tracks income, expenses, and balance via a clean Flask backend, built around a use case I actually needed myself, not a CRUD walkthrough.
+Tracks income, expenses, and balance via a clean Flask backend with user authentication, transaction management, and category-based filtering.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python &middot; Flask &middot; Backend architecture |
+| **Stack** | Python &middot; Flask &middot; MySQL &middot; pytest |
 | **Scale** | Personal tool with structured data model |
-| **Impact** | Full income/expense tracking with balance calculation |
+| **Impact** | Full income/expense tracking with balance calculation, covered by unit tests |
 | **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/finance-tracker) |
 
 Designed the backend architecture, data model, and routing structure independently.
@@ -86,8 +86,6 @@ Tic-tac-toe with an AI that cannot lose. Minimax implemented from scratch — th
 | **Scale** | Fully playable browser game |
 | **Impact** | Complete minimax tree — optimal play guaranteed |
 | **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/tictactoe-minimax) |
-
-Logic, decisions, and architecture are mine — AI tools used for algorithm clarification and edge case review.
 
 </details>
 
@@ -140,23 +138,11 @@ open_to:
 
 ---
 
-## `> github --stats`
+## `> connect`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NinoMarinkovic&theme=2077" width="100%" />
-
-</div>
-
-
-
-## `> connect --all`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/ninomarinkovic)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-00D4FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/nino.marinkovic)
-[![Discord](https://img.shields.io/badge/Discord-Nino2009-00D4FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.com/users/1243640971879514176)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/ninomarinkovic)
 
 *"The best code is the code that actually solves the problem."*
 
