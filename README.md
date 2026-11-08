@@ -52,7 +52,7 @@
 </td>
 <td width="42%" valign="top">
 <h3><a href="https://github.com/NinoMarinkovic/World-Cup-2026-Prediction-App">World-Cup-2026-Prediction-App</a></h3>
-<p>A full-stack web application for predicting FIFA World Cup 2026 match results. Built with Flask, MySQL and vanilla JavaScript. Features user authentication.</p>
+<p>A full-stack web application for predicting FIFA World Cup 2026 match results. Built with Flask, MySQL and vanilla JavaScript. Features user authentication, live match tracking, score predictions and a real-time leaderboard."</p>
 <p><sub>Python</sub></p>
 <p><a href="https://github.com/NinoMarinkovic/World-Cup-2026-Prediction-App">Read the repository →</a></p>
 </td>
@@ -61,9 +61,9 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/NinoMarinkovic/finance-tracker">finance-tracker</a></h3><p>Personal finance web app built with Python, Flask and MySQL. Features user authentication, transaction management and category-based filtering.</p><p><sub>Python</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/NinoMarinkovic/finance-tracker">finance-tracker</a></h3><p>Personal finance web app built with Python, Flask and MySQL. Features user authentication, transaction management and category-based filtering. Includes a clean responsive frontend and unit tests with pytest.</p><p><sub>Python</sub></p></td>
 <td width="33%" valign="top"><h3><a href="https://github.com/NinoMarinkovic/GamblersLuck">GamblersLuck</a></h3><p>A text-based RPG dungeon crawler built in Java using OOP principles. Fight enemies, collect coins and survive the casino!</p><p><sub>Java</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/NinoMarinkovic/tictactoe-minimax">tictactoe-minimax</a></h3><p>A browser-based Tic Tac Toe game with an unbeatable AI powered by the Minimax algorithm. Built with HTML, CSS, and JavaScript as a school project.</p><p><sub>JavaScript</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/NinoMarinkovic/tictactoe-minimax">tictactoe-minimax</a></h3><p>A browser-based Tic Tac Toe game with an unbeatable AI powered by the Minimax algorithm. Built with HTML, CSS, and JavaScript as a school project</p><p><sub>JavaScript</sub></p></td>
 </tr>
 </table>
 
