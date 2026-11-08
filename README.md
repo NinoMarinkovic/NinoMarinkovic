@@ -102,7 +102,6 @@
 <td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
 <td width="38%" valign="middle" align="right"><a href="www.linkedin.com/in/
 ninomarinkovic
-Name der persönlichen URL
 ">LinkedIn</a></td>
 </tr>
 </table>
