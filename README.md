@@ -156,7 +156,7 @@ open_to:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/ninomarinkovic)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-00D4FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/nino.marinkovic)
-[![Discord](https://img.shields.io/badge/Discord-Join-00D4FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.gg/Nino2009)
+[![Discord](https://img.shields.io/badge/Discord-Nino2009-00D4FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.com/users/1243640971879514176)
 
 *"The best code is the code that actually solves the problem."*
 
