@@ -1,11 +1,12 @@
 <div align="center">
 
-# Nino Marinkovic
+# Nino Marinković
 ### Industrial Engineering & Business Informatics Student — HTL Reutte, Austria
 
 Building backend systems and tools with real logic behind them, not tutorial rewrites.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/ninomarinkovic)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/ninomarinkovic)
+[![Profile Views](https://komarev.com/ghpvc/?username=NinoMarinkovic&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117)](https://github.com/NinoMarinkovic)
 
 </div>
 
@@ -14,7 +15,7 @@ Building backend systems and tools with real logic behind them, not tutorial rew
 ## `> whoami`
 
 HTL student in Austria — Industrial Engineering & Business Informatics.
-I care about clean architecture and build things that actually work.
+I care about clean architecture and build things that actually work, with real logic behind them, not copy-pasted tutorial code.
 I use AI tools (Claude, GitHub Copilot) as part of my workflow, for debugging, code review, writing parts of the code, and exploring concepts faster. The logic and decisions are mine.
 
 ```bash
@@ -52,22 +53,22 @@ Web app to track and predict World Cup 2026 results — group stage, knockout ro
 | **Stack** | Python &middot; Flask &middot; MySQL &middot; Docker &middot; HTML/CSS/JS |
 | **Scale** | Full 2026 tournament — 48 group games + full knockout bracket |
 | **Impact** | Live standings, auto-bracket progression, admin result submission, CI/CD pipeline |
-| **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/World-Cup-2026-Prediction-App) |
+| **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/World-Cup-2026-Prediciton-App) |
 
-Built the backend logic, knockout auto-progression, admin panel, and bracket rendering.
+Built the backend logic, knockout auto-progression, admin panel, and bracket rendering — AI tools used for debugging and structure decisions.
 
 </details>
 
 <details>
 <summary><b>&#9654; finance-tracker &mdash; Personal finance backend</b></summary>
 
-Tracks income, expenses, and balance via a clean Flask backend with user authentication, transaction management, and category-based filtering.
+Tracks income, expenses, and balance via a clean Flask backend, built around a use case I actually needed myself, not a CRUD walkthrough.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python &middot; Flask &middot; MySQL &middot; pytest |
+| **Stack** | Python &middot; Flask &middot; Backend architecture |
 | **Scale** | Personal tool with structured data model |
-| **Impact** | Full income/expense tracking with balance calculation, covered by unit tests |
+| **Impact** | Full income/expense tracking with balance calculation |
 | **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/finance-tracker) |
 
 Designed the backend architecture, data model, and routing structure independently.
@@ -85,6 +86,8 @@ Tic-tac-toe with an AI that cannot lose. Minimax implemented from scratch — th
 | **Scale** | Fully playable browser game |
 | **Impact** | Complete minimax tree — optimal play guaranteed |
 | **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/tictactoe-minimax) |
+
+Logic, decisions, and architecture are mine — AI tools used for algorithm clarification and edge case review.
 
 </details>
 
@@ -137,11 +140,23 @@ open_to:
 
 ---
 
-## `> connect`
+## `> github --stats`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/ninomarinkovic)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NinoMarinkovic&theme=2077" width="100%" />
+
+</div>
+
+
+
+## `> connect --all`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/ninomarinkovic)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-00D4FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/nino.marinkovic)
+[![Discord](https://img.shields.io/badge/Discord-Join-00D4FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.gg/Nino2009)
 
 *"The best code is the code that actually solves the problem."*
 
