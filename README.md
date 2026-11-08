@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nino Marinković
+# Nino Marinkovic
 ### Industrial Engineering & Business Informatics Student — HTL Reutte, Austria
 
 Building backend systems and tools with real logic behind them, not tutorial rewrites.
