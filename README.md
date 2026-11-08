@@ -1,107 +1,150 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · ninomarinkovic</sub></p>
-<h1>Nino Marinkovic</h1>
-<h2>Aspiring Backend &amp; Cloud Engineer</h2>
-<p>HTL student (Industrial Engineering &amp; Business Informatics) · Java &amp; Python · Building real things, not tutorials · Austria</p>
-<p><strong>● Building and sharing work in public</strong></p>
+# Nino Marinkovic
+### Industrial Engineering & Business Informatics Student — HTL Reutte, Austria
 
-<p><a href="https://github.com/ninomarinkovic">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/226891535?u=3e5ffe9cf5122c4dd0e0928f893ea47709762acb&amp;v=4" width="180" alt="Nino Marinkovic GitHub avatar" />
-</td>
-</tr>
-</table>
+Building backend systems and tools with real logic behind them, not tutorial rewrites.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/ninomarinkovic)
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Backend · Python · Java · Flask · MySQL</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>8 repositories</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>235 contributions · 43 active days</p></td>
-</tr>
-</table>
+## `> whoami`
 
-<p><sub>HTL student (Industrial Engineering &amp; Business Informatics) · Java &amp; Python · Building real things, not tutorials · Austria</sub></p>
+HTL student in Austria — Industrial Engineering & Business Informatics.
+I care about clean architecture and build things that actually work.
+I use AI tools (Claude, GitHub Copilot) as part of my workflow, for debugging, code review, writing parts of the code, and exploring concepts faster. The logic and decisions are mine.
 
-<h2>Proof at a glance</h2>
+```bash
+$ cat .profile
 
-<table width="100%">
-<tr>
-<td width="33%" align="center"><strong>8</strong><br /><sub>Repositories</sub></td>
-<td width="33%" align="center"><strong>235</strong><br /><sub>Contributions</sub></td>
-<td width="33%" align="center"><strong>43</strong><br /><sub>Active days</sub></td>
-</tr>
-</table>
+NAME     =  Nino Marinkovic
+SCHOOL   =  HTL Reutte — Industrial Engineering & Business Informatics
+STACK    =  Java  |  Python  |  JavaScript  |  Flask  |  MySQL  |  Docker
+LEARNING =  MySQL schema design  |  Cloud fundamentals
+OPEN_TO  =  Werkstudent / Praktikum roles, logic-heavy backend work
+```
 
-<h2>Selected work</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ninomarinkovic&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226891535%3Fu%3D3e5ffe9cf5122c4dd0e0928f893ea47709762acb%26v%3D4&repos=ninomarinkovic%2FWorld-Cup-2026-Prediction-App%2Cninomarinkovic%2Ffinance-tracker%2Cninomarinkovic%2FGamblersLuck%2Cninomarinkovic%2Ftictactoe-minimax&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=ninomarinkovic&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226891535%3Fu%3D3e5ffe9cf5122c4dd0e0928f893ea47709762acb%26v%3D4&repos=ninomarinkovic%2FWorld-Cup-2026-Prediction-App%2Cninomarinkovic%2Ffinance-tracker%2Cninomarinkovic%2FGamblersLuck%2Cninomarinkovic%2Ftictactoe-minimax&v=recruiter-projects-1&mode=dark" width="100%" alt="Nino Marinkovic selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/NinoMarinkovic/World-Cup-2026-Prediction-App">World-Cup-2026-Prediction-App</a></h3>
-<p>A full-stack web application for predicting FIFA World Cup 2026 match results. Built with Flask, MySQL and vanilla JavaScript. Features user authentication, live match tracking, score predictions and a real-time leaderboard."</p>
-<p><sub>Python</sub></p>
-<p><a href="https://github.com/NinoMarinkovic/World-Cup-2026-Prediction-App">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+## `> ls /stack`
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/NinoMarinkovic/finance-tracker">finance-tracker</a></h3><p>Personal finance web app built with Python, Flask and MySQL. Features user authentication, transaction management and category-based filtering. Includes a clean responsive frontend and unit tests with pytest.</p><p><sub>Python</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/NinoMarinkovic/GamblersLuck">GamblersLuck</a></h3><p>A text-based RPG dungeon crawler built in Java using OOP principles. Fight enemies, collect coins and survive the casino!</p><p><sub>Java</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/NinoMarinkovic/tictactoe-minimax">tictactoe-minimax</a></h3><p>A browser-based Tic Tac Toe game with an unbeatable AI powered by the Minimax algorithm. Built with HTML, CSS, and JavaScript as a school project</p><p><sub>JavaScript</sub></p></td>
-</tr>
-</table>
+<div align="center">
 
-<h2>Technical toolkit</h2>
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,flask,bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,idea,githubactions&theme=dark)](https://skillicons.dev)
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=ninomarinkovic&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226891535%3Fu%3D3e5ffe9cf5122c4dd0e0928f893ea47709762acb%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=ninomarinkovic&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226891535%3Fu%3D3e5ffe9cf5122c4dd0e0928f893ea47709762acb%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Nino Marinkovic technology stack" />
-</picture>
-</p>
+</div>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>27% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>23% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>19% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>11% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>10% of public code</sub></td>
-</tr>
-</table>
+---
 
-<h2>Consistency signal</h2>
+## `> ls /projects`
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ninomarinkovic&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226891535%3Fu%3D3e5ffe9cf5122c4dd0e0928f893ea47709762acb%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=ninomarinkovic&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226891535%3Fu%3D3e5ffe9cf5122c4dd0e0928f893ea47709762acb%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Nino Marinkovic contribution activity" />
-</picture>
-</p>
+<details open>
+<summary><b>&#9654; World-Cup-2026-Prediction-App &mdash; Full tournament tracker & predictor</b></summary>
 
-<hr />
+Web app to track and predict World Cup 2026 results — group stage, knockout rounds (R32 through Final), and live standings. Admin panel to submit match results, auto-progression for knockout brackets. Active project — 91 commits in June 2026 alone.
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://www.linkedin.com/in/ninomarinkovic">LinkedIn</a></td>
-</tr>
-</table>
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; Flask &middot; MySQL &middot; Docker &middot; HTML/CSS/JS |
+| **Scale** | Full 2026 tournament — 48 group games + full knockout bracket |
+| **Impact** | Live standings, auto-bracket progression, admin result submission, CI/CD pipeline |
+| **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/World-Cup-2026-Prediction-App) |
 
-<p align="center"><sub>Nino Marinkovic · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+Built the backend logic, knockout auto-progression, admin panel, and bracket rendering.
+
+</details>
+
+<details>
+<summary><b>&#9654; finance-tracker &mdash; Personal finance backend</b></summary>
+
+Tracks income, expenses, and balance via a clean Flask backend with user authentication, transaction management, and category-based filtering.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; Flask &middot; MySQL &middot; pytest |
+| **Scale** | Personal tool with structured data model |
+| **Impact** | Full income/expense tracking with balance calculation, covered by unit tests |
+| **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/finance-tracker) |
+
+Designed the backend architecture, data model, and routing structure independently.
+
+</details>
+
+<details>
+<summary><b>&#9654; tictactoe-minimax &mdash; Unbeatable AI via Minimax</b></summary>
+
+Tic-tac-toe with an AI that cannot lose. Minimax implemented from scratch — the AI recursively evaluates every possible game state and always plays a perfect game.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | JavaScript &middot; Algorithms &middot; Recursion &middot; Game Theory |
+| **Scale** | Fully playable browser game |
+| **Impact** | Complete minimax tree — optimal play guaranteed |
+| **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/tictactoe-minimax) |
+
+</details>
+
+<details>
+<summary><b>&#9654; GamblersLuck &mdash; Text-based RPG dungeon crawler</b></summary>
+
+Fight through 7 floors of a deadly casino, collect coins, and survive two boss encounters. Built in Java around OOP principles — text-based, fully playable.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Java &middot; OOP &middot; Game logic |
+| **Scale** | 7 floors, 2 boss fights, full combat & coin system |
+| **Impact** | Complete playable game built on clean class architecture |
+| **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/GamblersLuck) |
+
+Designed the class hierarchy, combat system, floor progression, and boss encounter logic.
+
+</details>
+
+<details>
+<summary><b>&#9654; RPG-Creature-Search-App &mdash; Filterable creature database</b></summary>
+
+Searchable, filterable creature database — vanilla JS, real DOM manipulation, zero frameworks.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | JavaScript &middot; HTML &middot; CSS &middot; DOM API |
+| **Scale** | Full creature database with live filter |
+| **Impact** | No-dependency search/filter — pure implementation |
+| **Repo** | [View on GitHub](https://github.com/NinoMarinkovic/RPG-Creature-Search-App) |
+
+Built all filtering logic, DOM updates, and search logic without any libraries or frameworks.
+
+</details>
+
+---
+
+## `> cat current-focus.yaml`
+
+```yaml
+learning:
+  - MySQL: subqueries
+  - Cloud Computing
+
+open_to:
+  - Werkstudent / internship roles in backend or infrastructure
+  - Collaborations on logic-heavy projects
+  - Teams that care about clean architecture
+```
+
+---
+
+## `> connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/ninomarinkovic)
+
+*"The best code is the code that actually solves the problem."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0D1117&height=80&section=footer" />
